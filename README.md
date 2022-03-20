@@ -1,11 +1,12 @@
 # LATIHAN5DPBO2022
 Latihan Praktikum DPBO
 
-*Saya Alya Chairunnisa mengerjakan evaluasi Latihan Praktikum 3 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
+*Saya Alya Chairunnisa mengerjakan evaluasi Latihan Praktikum 5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
 
 Screenshot Hasil
 
 Hasil Awal (data dummy)
+
 ![Screenshot (651)](https://user-images.githubusercontent.com/75361865/159169216-11bca89f-dcbb-47f8-8a88-611cf149c3c3.png)
 
 1. Menambahkan Data
