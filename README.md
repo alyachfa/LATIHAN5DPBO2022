@@ -11,12 +11,18 @@ Hasil Awal (data dummy)
 
 1. Menambahkan Data
 
-![Screenshot (652)](https://user-images.githubusercontent.com/75361865/159169241-dd694e19-7f6c-41bd-8546-b626fcb3f44f.png)
+![add](https://user-images.githubusercontent.com/75361865/159170468-a6fd2e59-dac5-430a-bc70-ec06df88bf74.png)
+
 
 2. Mengubah Data
 
-![Screenshot (653)](https://user-images.githubusercontent.com/75361865/159169258-6e2fc53e-4c8d-4d16-8153-7d541c205c43.png)
+![update](https://user-images.githubusercontent.com/75361865/159170478-32d94cc0-90e7-40ac-beb4-71a8be717373.png)
+
 
 3. Menghapus Data
 
-![Screenshot (654)](https://user-images.githubusercontent.com/75361865/159169277-72388b34-7241-4b18-a7d2-ad2db110a0f3.png)
+![Delete](https://user-images.githubusercontent.com/75361865/159170488-37e28fd6-df5a-4f06-a5ff-2425be252066.png)
+
+4. Menampilkan "Data Tidak Valid!" ketika masukan ada yang tidak terisi
+
+![error](https://user-images.githubusercontent.com/75361865/159170522-ccecf1ee-7e0d-41b6-b285-c50ffd6716c2.png)
